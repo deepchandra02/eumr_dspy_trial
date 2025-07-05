@@ -1,1102 +1,702 @@
 [
 	{
 		"text": "I bought this vacuum cleaner on April 2, 2016. On May 28th, 2018, the motor stopped working in mid-vacuum for no reason we can figure out. Totally dead. Just a few weeks after its 2-year warranty ran out. It received light use (10 minutes, twice a week, in a small house, on low-pile area rugs with normal levels of dust and pet hair). A month before that, the beater bar started working erratically. Given my experience, I can't recommend this vacuum cleaner, and going to try another brand. I know appliances are made to be disposable these days, but it's not like this one saw heavy use.  I ran the numbers, and this appliance lasted 262 hours. Doesn't seem like a lot to me.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#DurabilityAndMaterialConcerns",
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"N",
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "The suction is awesome... My last vacuum had been slightly working for quite awhile but I didn't know how much until I used BISSELL Multiclean Allergy. Couldn't believe what it had left behind. The maneuverability leaves a bit to be desired but that may get better as I use it and find the best way to work with it.  I wouldn't call it lightweight but it's not awful... I am happy with the product especially since I got it on sale!",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#CustomerExperienceAndExpectations",
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"P",
-			"P",
-			"P"
 		]
 	},
 	{
 		"text": "I got this vacuum to replace my dyson.  I had my dyson for about six years and replaced a few parts over the years.  This time it wasn't worth the cost to fix.  So, I tried this Shark.<br />Positives;<br />Much lighter than a dyson<br />The handheld attachment has a lot of power<br />Does a good job picking up dirt and hair<br />Smaller size than a dyson so easy storage<br />Relatively quieter than a dyson<br />Negatives;<br />VERY VERY VERY small brush width, meaning you have to push it back and forth twice to cover the same area as one sweep for the dyson, and takes longer to do each room as a result, not to mention hard on the shoulder<br />Cord is shorter than dyson<br />Takes TWO hands, and a lot of shaking around to empty canister, usually resulting in a big mess. (Dyson had a one touch button to empty canister that keeps hands clean)<br /><br />My house is 80% carpet, so this was probably not the right vacuum for me.  I don't have stairs so can't comment on that.  Can't really decide if I like it or not.  Just remember that the main vacuum part is very very small..<br /><br />UPDATE:  a few days later....I HATE THIS VACUUM.  I'm literally bleeding from trying to empty the canister.  It takes three hands to open it, and get the dirt and hair to come out.  I have a persian cat and she sheds a lot.  Her hair is very fine.  I have to literally stick my hand in the canister to pull out the hair.  When you try to use the extension arm, the entire thing falls over, EVERY TIME.  This time, whacking me in my elbow to the point I got an instant bruise.  Do yourself a favor, DO NOT BUY THIS VACUUM.",
-		"expected": [
+		"tags": [
 			"#DesignAndUsabilityIssues",
 			"#PerformanceAndFunctionality",
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"N",
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "Cord return gets easily jammed.  Emits a high-pitched whistle when using the hose attachments.  Wish that there was an option to stop the brush from spinning when you are using the attachments.  But other than that, the suction appears to be pretty good.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality"
-		],
-		"sentiment": [
-			"N"
 		]
 	},
 	{
 		"text": "We were torn on the Bissell or this and we went for the hoover. We got it Feb 5th and it broke today 4 days later. I have never had a Vac break like this. They normally get old and tired. I'm 60 years old and owned  4 vacs in my life and never had on just snap off the handle while vacuuming. This is so poorly made it's sad. I swear it worked great until it broke. LOL  4 Days later.  Don't waste your money",
-		"expected": [
+		"tags": [
 			"#DurabilityAndMaterialConcerns",
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "Loved this vacuum. Was looking for a vacuum with a bag and this one is perfect. No dust flying around. Handles very easily and the suction is great.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality"
-		],
-		"sentiment": [
-			"P"
 		]
 	},
 	{
 		"text": "I've had this vacuum almost 2 years, yesterday plastic power on rocker switch broke. Looked up purchase date and warranty, found 5 year warranty. Called shark part isn't covered by limited warranty. Only covered part is suction unit. The part that turns on unit is not covered and is a $70 part. Shark you suck. I got part with free shipping by complaining to customer service for half off.",
-		"expected": [
+		"tags": [
 			"#DurabilityAndMaterialConcerns",
 			"#CustomerExperienceAndExpectations",
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"N",
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "I've owned two of these now, both lasting only six months. After the first one stopped sucking up the dirty water I immediately purchased another one assuming it had to be a fluke. Now here I am again, with another machine not sucking up the dirty water.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#DurabilityAndMaterialConcerns"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "I loved this vacuum when I first got it....maybe 6 months ago...now it doesn't seem to have much suction. I removed the brush and checked the belt...looked good but changed it anyway but no difference. I am in the middle of spring housecleaning and have had to get out my old Bissel to finish the job!! I have a few friends that I clean for and had them purchase this model also....hope theirs holds up.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#DurabilityAndMaterialConcerns"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "Its a good vacuum but the quick release wand clip that holds it into place is plastic and can be easily broken.  Once that happens your vacuum is no good..  cant control it, handle will keep coming in and out.  Normally I would say no problem, but they do not sell a replacement part for it you now have to replace the vacuum..  Mine is approx 4 months old and I now have to replace the vacuum while I wait to see if they will cover it under the warranty .  Be gentle be nice and be lucky and you may be ok..  this plastic piece is easy to break and snap off on the wand",
-		"expected": [
+		"tags": [
 			"#DurabilityAndMaterialConcerns",
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "I absolutely loved this vaccuum. It was light weight, easy to use, easy to clean, good power, and was cute.  The only problem was it died within a year. I don't want to buy a new one every year, but it was definetely my favorite vaccuum to use.",
-		"expected": [
+		"tags": [
 			"#DurabilityAndMaterialConcerns"
-		],
-		"sentiment": [
-			"N"
 		]
 	},
 	{
 		"text": "I love Shark vacuums.  I've bought at least 5 over the past 10 years.  I am very hard on vacuums.  We have carpets and wood floors and it works great on all of them.  I love that there are not belts.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality"
-		],
-		"sentiment": [
-			"P"
 		]
 	},
 	{
 		"text": "Great machine for the price!<br />strong and great attachments! though my quick pick up go to is my wall mounted cordless Dyson this Bissell Vacuum is such an improvement over my old vacuum with a bag. Vacuuming without that vacuuming smell!",
-		"expected": [
+		"tags": [
 			"#ValueForMoneyAndInvestment",
 			"#DurabilityAndMaterialConcerns"
-		],
-		"sentiment": [
-			"P",
-			"P"
 		]
 	},
 	{
 		"text": "The instruction Manual and the actual unit do not match in terms of functions Example 1)Can not turn off the brush 2) can not bend the handle for storage...confusing and feel cheated. not used it yet so cannot comment on the performance yet. Just stuck in trying to find the functions shown in the Manual.",
-		"expected": [
+		"tags": [
 			"#DesignAndUsabilityIssues",
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "Purchased this product anticipating moving to a new apartment.  Haven't tried it yet, but it is rated pretty high with consumer reports and tons cheaper than the #1 bagless vacuum.  I'll let ya know...",
-		"expected": [
+		"tags": [
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"P"
 		]
 	},
 	{
 		"text": "I bought this for my 83 year old Mom, it seems looser than it should be for a totally reconditioned item. I will keep an eye on it and see if it continues to work ok. I would only rate this a 3 out of 5.",
-		"expected": [
+		"tags": [
 			"#DurabilityAndMaterialConcerns",
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "Works great, picks up all the dog hair. The real challenge is to see how long it lasts. Will update.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality"
-		],
-		"sentiment": [
-			"P"
 		]
 	},
 	{
 		"text": "Never thought I'd think a vacuum was too powerful.  The problem in this vacuum is that the extension hose compresses so much that it's hard to use once the motor is turned on.  I even bought the 20 foot hose before I realized what was causing the problem, and the same thing happened.  Nothing wrong with the hose.  It's fine as long as the motor is off.  Floor cleaning is great.  I wish it were possible to manually turn the brushes off.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality"
-		],
-		"sentiment": [
-			"N"
 		]
 	},
 	{
 		"text": "Super easy to assemble... nice solid build.  Feels much nicer than similarly-priced dirt devil models.  On initial use, this thing is quite nice, easy to use, and has a rubber padded feel where it hits furniture and base boards, which is really nice.  Strong suction... great for pet hair...  just the right attachments.  My only complaints is that it doesn't have an auto-wind up cord, and that the hose that you attach things to is anti-stretch enough to pull the unit over even in short reaches.  You can get around it by propping it up against the direction you're pulling, but it'd be nice if the hose didn't pull back as much as it does when extending it.  Other than that, great vac for the money.  I really like it.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#CustomerExperienceAndExpectations",
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"P",
-			"P",
-			"P"
 		]
 	},
 	{
 		"text": "After reading 5000 reviews here and elsewhere I bought this vacuum. It replaced a Hoover Windtunnel that still worked but the switch was bad and I'm spoiled. Our downstairs vacuum is a Bissell.  After putting this one together my husband vacuumed the area rug in the family room.  OMG. It looked clean before he started and I thought it didn't need vacuuming. He got a whole canister full of fine dirt and dog hair. Same upstairs, the canister was full after doing just our bedroom. The carpet has some age on it and this vacuum pulled up the pile, and while it doesn't look new it sure looks better.<br /><br />I like the attachments but I sure wish it had a dusting brush as that's how I do my baseboards.  I ordered a round horsehair brush ECOMAID 2 Packs Round Dust Brush 25MM Horse Hair 1.24\" Cleaner Vacuum Attachment Brush Soft Bristles Replacement with 1-1/4\" to 1-3/8\" Hose Adapter because the reviews specifically say it fits this model.  The brush on the Shark website is available but shipping costs as much as the brush, no thank you.<br /><br />The headlights on the main unit and on the detachable wand are great for seeing into dark places like under the bed and dresser. The motorized piece is great for stairs, and also in tight little corners where the main vacuum won't fit.<br /><br />This vacuum has 3 filters and I have noticed that when I vacuum my house doesn't smell \"doggy\" like it did with my old Hoover that used bags. I took the filters out yesterday for the first time after having the vacuum about 4 months and the foam was full of dirt.  My husband insisted on blowing it out with his air compressor but then I washed it out with plain water as per the instructions and more dirt came out.<br /><br />It's a great vacuum and I would buy again but whoever decided to leave out the dusting brush is just dumb.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#MaintenanceAndCleaning",
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"P",
-			"P",
-			"P"
 		]
 	},
 	{
 		"text": "This vacuum is like a child's toy. Plastic too thin feels like it will break easily. Hose too short. When you use the hose the vacuum easily tips over because it's too light.  I thought it was a toy for a child after removing it from the box, seriously.  I plan on returning it to purchase a vacuum cleaner with better quality parts.",
-		"expected": [
+		"tags": [
 			"#DurabilityAndMaterialConcerns",
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "This is really a discontinued Bissell PowerForce bagless branded as a Sanitaire (after all, Bissell bought Sanitaire a couple years back). The only Sanitaires worth buying are the direct-air, Eureka designed commercial uprights (aka the \"original\" Sanitaire).",
-		"expected": [
+		"tags": [
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"N"
 		]
 	},
 	{
 		"text": "I've had this vac for about 9 months now so i've been able to give it a good workout. It sucks up dirt better than any vacuum i've ever had on any surface, a guy came to my house once and tried to sell me a 700 dollar Kirby vac that wasn't any more powerful, but this vacuum is not very well constructed and doesn't have a solid feel to it. I was using it on the stairs and accidently dropped it one step down or about 8 inches and the bottom of the vac flew all to pieces, i never could get it back like it was so if you get this model be careful.",
-		"expected": [
+		"tags": [
 			"#DurabilityAndMaterialConcerns",
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "I purchased a Shark Navigator Professional Lift-Away Vacuum Cleaner - Model NV356E about 6 months ago.  I loved owning my Shark--until a week ago.<br /><br />The motorized floor nozzle, which I use daily, broke and the other attachments just weren't that useful for my needs. I called customer service and was told I would get a replacement part within 7-10 business days.That was a week ago. Late tonight I just received a note saying that I would not receive a new motorized floor nozzle for at least another two weeks because the part is backordered.<br /><br />No customer should receive a backorder email like this about a part that should have already shipped.<br /><br />Before you buy this, be aware this replacement part seems to be in high demand and pay attention to  customer service reviews--others have had similar disappointing experiences.<br />---------------<br />Update: I sent an email to the corporate offices of EuroPro and a customer service agent called me the next day to arrange to send a replacement vacuum cleaner. While this was resolved and I am VERY grateful, I was not able to resolve it through normal customer service channels.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "Really disappointed I purchased because I have a husky and I need for regular cleaning,  this vacuum broke at my 3 time using it. The belt melt inside,  Suction is not strong to pick up the hair from my dog.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#DurabilityAndMaterialConcerns"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
-		"text": "I loved this vacuum, then the belt broke. Nothing was interchangeable so I had to order one. It took 6 months to get it. When I received it I went put it on and now the motor won\u2019t run. I wanted a bagged vacuum and bought extra bags. Now I just have a piece of junk.",
-		"expected": [
+		"text": "I loved this vacuum, then the belt broke. Nothing was interchangeable so I had to order one. It took 6 months to get it. When I received it I went put it on and now the motor won’t run. I wanted a bagged vacuum and bought extra bags. Now I just have a piece of junk.",
+		"tags": [
 			"#DurabilityAndMaterialConcerns",
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "PRO:  It has incredible Suction.  Thankfully, we got ours at Costco, and after the hose finally broke, I was able to return for a full refund.  Otherwise, I would be stuck with it.<br /><br />I had a Kenmore  canister for 20 years and thought I hated that.... but it's what I'm using now as I look for another vacuum.  I appreciate the ol' girl much better after this new one.  It's got waaaay too much baggage. HA!<br /><br />CONS:<br />1)  It won't stay in the upright position.  It's supposed to click and the handle stay up.  It never does and falls with a big \"BANG\" hitting and damaging stuff. (Or me)<br /><br />2) It has these extra little wheels that CONSTANTLY get all caught up with the power cord.  So, you have to hold the power cord out of the way or you are just fighting it the whole time.  So you get one hand to vacuum with this heavy thing.<br /><br />3)  It has tiny little holes for sucking stuff up and they get clogged easily.  They are simply too small to suck up anything like Christmas tree needles and not clog.<br /><br />4) It is a MESS to empty the canister.  THankfully,  we live in the country and empty it OUTSIDE into our burn barrel.  I cannot imagine the giant dust cloud in my house or an apartment if you don't have that option like we do.<br /><br />5)  You are supposed to blow out the 'cyclone' part I think.  Well, I do because it's FULL of dust.  That, of course is using an air compressor and done outside.  Again, if you don't live in the country, you don't have this option.  And even so, I HATE it.  Dust goes ALL OVER me.  It's a mess.<br /><br />6)  The thing I hate the most was the hand-held hose.  If you want to vacuum out your car, crevices, etc,  and want to use the hose with attachment, you will feel like there's a MMA fighter on the other end yanking the crap out of your arm.  It totally fights you the entire time.  It's a massive tug of war to pull the hose out, even a little bit.  Either the stupid vacuum wants to fall over and hit you in the head and~ what happened to me~ eventually it just breaks and there's a huge hole in the hose.  I wanted to use it for target practice every time I got done brawling with it.<br />If you are older, have any joint problems, etc. Forget it.  It's a nightmare to use the hose.<br /><br />7)  I hated wrapping up the cord every time after use.  I missed my automatic hose rewind on my Kenmore.  After use, having to wrap up the cord, then having it tangle during use, I'm so over it.<br /><br />8)  If you are used to a canister, this is very heavy.<br /><br />PRO:<br />It has incredible suction.  After using my Kenmore on a clean floor, this thing sucks up all the invisible particles you never knew could still be in there.  So, it will get all the crap sucked up.... as long as it doesn't clog the tiny holes in the head.",
-		"expected": [
+		"tags": [
 			"#DurabilityAndMaterialConcerns",
 			"#DesignAndUsabilityIssues",
 			"#MaintenanceAndCleaning"
-		],
-		"sentiment": [
-			"N",
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "I bought this because of all the other reviews. I have 2 dogs and one is a puppy being potty trained. I loved the price, the size, and weight. I received it and used if for the first time to do the whole livingroom it worked great but it was amazing for the price. The next time I used it, it was the same but after that it went down from there. Now it will hardly clean anything out of the carpet. I guess its cheaper than renting to get 2 to 2.5 uses out of it but don't buy it for the long haul.",
-		"expected": [
+		"tags": [
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"N"
 		]
 	},
 	{
 		"text": "I love these vacuum cleaners. However it was sent to me with two broken pieces and missing the vacuum attachment.",
-		"expected": [
+		"tags": [
 			"#DurabilityAndMaterialConcerns",
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "+ It does have suction power!!! As one reviewer pointed out - you have to be careful with throw carpets getting sucked up!<br />+ It is easy to maneuver.<br />- Power cord is too short. (easy to remedy with extension cord)<br />- Cannot shut-off spinning brush roller.<br />- Attachment hose is too short and rigid.<br />- Attachment tools (with rubber edges rather than brush bristles) may help roll hair into balls for picking up; but, do not work well for dust and dirt pickup.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality"
-		],
-		"sentiment": [
-			"N"
 		]
 	},
 	{
-		"text": "It started off great. After two months it stopped picking up. I have to use the hose to vacuum. I don\u2019t even have pets.",
-		"expected": [
+		"text": "It started off great. After two months it stopped picking up. I have to use the hose to vacuum. I don’t even have pets.",
+		"tags": [
 			"#PerformanceAndFunctionality"
-		],
-		"sentiment": [
-			"N"
 		]
 	},
 	{
 		"text": "This product is a good one so it amazed me how cheap I got it :) it is perfect for picking up pet hair and it is not too heavy.",
-		"expected": [
+		"tags": [
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"P"
 		]
 	},
 	{
 		"text": "Had not cleaned the carpet in 3 years (just vacuumed) ,it took the dirt right up no fuss no muss great product<br />This is the cleaner to get by far.Looks like it was done by those cleaning companies.<br />Would buy 1 again",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality"
-		],
-		"sentiment": [
-			"P"
 		]
 	},
 	{
 		"text": "Edited to add:<br />After having this vacuum for a little over a year, the hose attachment that connects the head of the vacuum to the vacuum itself, was damaged by the little piece at the head where you release/lock the head in place to stand it up or bring it down to vacuum. I contacted Kenmore back in early November, 2022 and they told me the part was on backorder. I have reached out numerous times by phone, and sent an email 5 days ago, with no response. I'm a little frustrated because there's nothing wrong with the vacuum itself. It vacuums great, but not without a main component. The vacuum is fine, except for the faulty make of the head of the vacuum causing it to rub and eventually cause a hole in the hose and the poor customer service. I've always owned Kenmore, but I'm having second thoughts about the next brand I choose (which will be soon because I am currently SWEEPING 3000k sqft of house!!) due of lack of communication and availability of the simplest parts. It's a HOSE. It can't be that hard to make!! I could probably go to Napa and them have me fixed up!<br /><br />I have a 3,000 square foot all hardwood and ceramic tile floor home and I have gone from spending the whole morning sweeping and mopping the whole house down to 30 minutes vacuuming and another 35 to mop. This thing has saved my back. I have 3 toddlers so floor cleaning is a daily task. While in hard floor mode the brush stops. You can literally maneuver it with a flick of your wrist. You do have to use the hose to pick up larger debris, but it's not an inconvenience. Love it and it's the best purchase I've made since purchasing this house.",
-		"expected": [
+		"tags": [
 			"#DurabilityAndMaterialConcerns",
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "I bought this vacuum March 10th and I'm already having to replace the belt. I use it about 3 times a week to thoroughly clean (corners, walls edges, behind dog kennels) and I do an everyday quick vac. After which I empty the bin (and wash it then allow it to air dry, I clean the brush, check the filters (replace if needed). In other words I take extra special care of it. I hope it's just a one time thing... a fault in manufacturing or something of that nature. I'd hate to think I'll have to replace the belt every month... along with the filters that clog up very quickly and the fact that the tubes get clogged easily if you have pets. (and it's a pain to remove a clog due to the design.) It does have great suction, and the extra tools are nice. They do help, I'm just concerned with manufacturing. If I'm having so many problems with this vac just a little over a month... is it even going to make it a year?",
-		"expected": [
+		"tags": [
 			"#DurabilityAndMaterialConcerns",
 			"#MaintenanceAndCleaning",
 			"#DesignAndUsabilityIssues"
-		],
-		"sentiment": [
-			"N",
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "Let me start by saying that this is not my first time using an automatic floor cleaner. My previous forays into this area of house cleaning involved a Shark Steam Mop, and a Hoover Steam Mop. This appliance came well packaged and it was easy to assemble. A few clicks of the handle and the head and I was ready for business. I did read the instructions, which told me which tank to fill with water/cleaner and saw the waste water tank below it. Please be aware that the top of the waste water tank has a type of filter installed in it, which makes it a spill hazard when removing the tank. The clean water/cleaner tank was well positioned, but is in my opinion, impossibly too small to get any cleaning done in a reasonable amount of time. Let me explain: I have a 12x17' kitchen, it contains a few items of furniture all of which are on rollers or can be pushed out of the way (island and a table and chair set). The rest of the area is open floor, and in my case, was in need of a good mopping. The good about the appliance is that it is well sized for smaller people to move around between furniture, and it does fit under the kitchen cabinet toe kick. It seemed to wash/dry decently, but it took a long time to do this correctly. The vacuum setting is no better than a light vacuum, so you must sweep and vacuum the corners first if you have any pet hair to contend with. The dry setting seems to work well, it does dry the floor, however as I stated previously, but the time you sweep, vacuum with a regular vacuum, then wash/scrub/dry the floor, its easily 2x if not 3x longer than if you just dragged out a bucket and mop. The time it takes to fill/empty the tanks is annoying at best. Now that I've used it, and I have seen how it does not help me lighten my cleaning load by automating it, I will be sending it back. I think I will be going back to a steam mop and just figure that I have to throw one out a year as they go bad. For the price of the FloorMate, I can get two steam mops on sale, and just use them for quick clean ups and the bucket/mop the other times. You can get a good professional grade mop and heads for $50 and that will do as good or better job as the FloorMate, and its a lot quieter too.",
-		"expected": [
+		"tags": [
 			"#AssemblyAndSetup",
 			"#PerformanceAndFunctionality",
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"N",
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "Bought a cordless Dyson Cyclone from Costco for about $580, took a while to charge, kept having to repeat strides because it didn't have enough suction power to pick up things like small ribbons, dog hair intertwined in Ruggable pads, and parrot food. I also had to keep my finger pressed the entire time, that can get tiresome. I returned it. I then bought this Bissel 2998 Multiclean for $236 from Amazon, it was light weight and barely picked up anything. It felt like I was using a children's vacuum toy. I returned it. Then I remembered my old vacuum, THE SHARK. This vacuum's suction power is far superior to the Dyson and Bissel. Immediately after putting it together, I vacuumed my bedroom rug. It picked up all this fine dirt and dog hair AFTER, A-F-T-E-R the Dyson and the Bissel. The pictures I posted are dirt and dog hair that the Dyson and the Bissel could not pick up.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#ValueForMoneyAndInvestment",
 			"#AssemblyAndSetup"
-		],
-		"sentiment": [
-			"N",
-			"N",
-			"P"
 		]
 	},
 	{
 		"text": "Great vacuum. I use it on both of my shag rugs and my hard floors, it performs beautifully on both and it's super east to take apart. The filter is easy to clean. 10/10 would buy again.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#MaintenanceAndCleaning"
-		],
-		"sentiment": [
-			"P",
-			"P"
 		]
 	},
 	{
 		"text": "This vacuum has exceed my expectation.  The only reason why I didn't give it a 5 star rating was because I wish it was a little lighter.  Otherwise, it's great!  It really pulls up the dirt from hardwood floors and carpeted.  It's easy to move and it gets in awkward spaces with the unique rotation.",
-		"expected": [
+		"tags": [
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"P"
 		]
 	},
 	{
 		"text": "This vacuum does a very good job with suction both on floor and with hose. HOWEVER, the hose keeps coming unattached! When I'm using it to vacuum baseboards, the hose connection to the vacuum turns and it comes undone almost every 30 seconds. The hose also does not extend very well. I can get it to extend about 3 feet before the vacuum just pulls along with it.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality"
-		],
-		"sentiment": [
-			"N"
 		]
 	},
 	{
 		"text": "Very powerful, easy to use, nice features like retractable cord and bagless collection system. My favorite vacuum cleaner of all time.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#DesignAndUsabilityIssues"
-		],
-		"sentiment": [
-			"P",
-			"P"
 		]
 	},
 	{
 		"text": "great machine and very happy. After 6mo trouble began. Cord does not stay out and today machine stopped running completely- now what?",
-		"expected": [
+		"tags": [
 			"#DurabilityAndMaterialConcerns",
 			"#PerformanceAndFunctionality"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "My first one did not have the rewind feature.  Now, I'm very rough on vacuums -- I own 6 dogs who like to chew toweling and kleenex.  I go thru vacuums at least every 6 months.  I've had Dyson, Orecks,<br />Dirt Devils, you name it.  I've spent from $70 to 600.  My Dyson is sitting in my basement -- it lasted a few months.  Can't figure out how to unplug it, so i gave up.  I will never buy another expensive vacuum again.  The oreck is nice and light and works well, when it works.  it's been in the shop more than at my home, so I gave up on it too.<br />My last wind tunnel just stopped working.  I had half of the living room vacuumed and POOF it just stopped.  I waited awhile and it worked for 5 minutes then stopped.  It's now out by the trash can.<br />I just bought this one.  I expect it to last a few months, but at the price, I'm not overly upset.  It's my lot in life...lol<br /><br />This review is to note that is you have the model WITH the brush on/off switch (turn off the brush for hardwood floors), you need to order the belt with the part number AH20065.  I don't know why it makes a difference, but according to the owner's manual, it's the type you're supposed to get.  Not easy to find on Amazon or Hoover's site.  The belt # 38528058/AH20080 is for the wind tunnel WITHOUT THE brush on/off feature.<br /><br />This model has good suction.  It doesn't blow back dirt at your feet.  It's not perfect.  If anyone has a vacuum that can withstand 6 dogs for any length of time, please let me know.  I seem to have become a vacuum collector.<br /><br />updated 12/28/10:  So far since I bought this (11/10), the belt has become dislodged twice.  No tools needed to open up the bottom, but it's a royal pain to get the belt back into place.  I'm not happy with it at all.  It shouldn't dislodge this often.  Ordering the Bissell today.  This one is sitting there waiting for me to operate on the belt again...when I have time.  I would not recommend it any longer.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#DurabilityAndMaterialConcerns",
 			"#ValueForMoneyAndInvestment",
 			"#MaintenanceAndCleaning"
-		],
-		"sentiment": [
-			"N",
-			"N",
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "The vacuum worked very well for almost 4 years, then the brush roll stopped turning permanently. Knowing there was a 5 year warranty reach out to Shark support and did a video troubleshooting session with them. Turns out the base is not covered this long and requires me to pay for a new one. Probably better to just buy a new machine altogether. Disappointing.",
-		"expected": [
+		"tags": [
 			"#DurabilityAndMaterialConcerns",
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "It's so nice, it's so powerful, the anti hair wrap feature Does work, the lift away function is quite handy and the provided attachments are extremely useful. I would recommend this vacuum to anyone that hates vacuuming as it could very well change your mind!",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"P",
-			"P"
 		]
 	},
 	{
 		"text": "The shark is better than the dyson and cheaper great bang for the buck, the wife loves it !!! It's easy to use with all the attachments",
-		"expected": [
+		"tags": [
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"P"
 		]
 	},
 	{
-		"text": "I\u2019ve owned this for 3 months. Used it maybe 12x\u2026 I\u2019m sick of having to charge after every session and my house isn\u2019t very big!",
-		"expected": [
+		"text": "I’ve owned this for 3 months. Used it maybe 12x… I’m sick of having to charge after every session and my house isn’t very big!",
+		"tags": [
 			"#BatteryAndPowerIssues"
-		],
-		"sentiment": [
-			"N"
 		]
 	},
 	{
 		"text": "We were pleasantly surprised how lightweight and easy to use This vacuum cleaner is. We have three animals in the house and it has always been a challenge to find a vacuum cleaner that doesn't get clogged up especially around the brush. The brush on this vacuum cleaner does not get clogged up and it works great. A really nice product for the money",
-		"expected": [
+		"tags": [
 			"#DesignAndUsabilityIssues",
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"P",
-			"P"
 		]
 	},
 	{
-		"text": "Trabaja muy bien me gusta que puede limpiar por todas las esquinas , debajo de la  cama y muebles muy f\u00e1cil mente y en muy flexible lo \u00fanico mal es que la carga solo dura aproximadamente solo diez minutos y no al canso a limpiar toda la casa ,mi casa mide 2450 piez cuadros y solo puedo limpiar apenas la mitad de la casa., la e dejado conectada toda la noche pero si levanta los pelos de mi perros muy bien.",
-		"expected": [
+		"text": "Trabaja muy bien me gusta que puede limpiar por todas las esquinas , debajo de la  cama y muebles muy fácil mente y en muy flexible lo único mal es que la carga solo dura aproximadamente solo diez minutos y no al canso a limpiar toda la casa ,mi casa mide 2450 piez cuadros y solo puedo limpiar apenas la mitad de la casa., la e dejado conectada toda la noche pero si levanta los pelos de mi perros muy bien.",
+		"tags": [
 			"#BatteryAndPowerIssues"
-		],
-		"sentiment": [
-			"N"
 		]
 	},
 	{
 		"text": "Hardwood floors are a pain to keep clean but it is easier with this nee floor mate from hoover that helps you keep the floor clean and dry and free of pesky dust-mites. Has multiple settings, easy to set up and easier to use.",
-		"expected": [
+		"tags": [
 			"#MaintenanceAndCleaning",
 			"#AssemblyAndSetup"
-		],
-		"sentiment": [
-			"P",
-			"P"
 		]
 	},
 	{
-		"text": "I\u2019ve had my breeze for a little over a month now. I found it easy to put together. However, I was using it and it started to smoke and smell like plastic melting. I stopped it to see if I had accidentally sucked anything up.... I was wrong. Belt started malfunctioning and was ripping apart the inside brush and plastic. Googled it to see if it was common and found it, along with tons of other dirt devil items mostly sold on amazon have been recalled. So please use caution.",
-		"expected": [
+		"text": "I’ve had my breeze for a little over a month now. I found it easy to put together. However, I was using it and it started to smoke and smell like plastic melting. I stopped it to see if I had accidentally sucked anything up.... I was wrong. Belt started malfunctioning and was ripping apart the inside brush and plastic. Googled it to see if it was common and found it, along with tons of other dirt devil items mostly sold on amazon have been recalled. So please use caution.",
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#DurabilityAndMaterialConcerns",
 			"#AssemblyAndSetup"
-		],
-		"sentiment": [
-			"N",
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "This vacuum is very heavy and hard to use. It is difficult to push and It doesn't suck anything within 4 inches from the wall so you have to remove the hose and then vacuum all over again. The cheap $50 ones from Walmart work better than this. The only bonus is that I get a workout just trying to vacuum my rugs. Do not recommend",
-		"expected": [
+		"tags": [
 			"#DesignAndUsabilityIssues",
 			"#PerformanceAndFunctionality",
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"N",
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "This is a fantastic vacuum! I've wanted a Dyson for years and glad I finally got one. It cleans both carpet and hard surfaces very well, empties easily and is very maneuverable.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality"
-		],
-		"sentiment": [
-			"P"
 		]
 	},
 	{
 		"text": "No clogs and motor smelt like burnt plastic. When first purchased I was satisfied. Loss suction overtime which ultimately died. I had a Shark Duo clean for years and no problems. Seems that the material is cheaper.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#DurabilityAndMaterialConcerns"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "Hoover makes a solid, well-made vacuum. It is sturdy with quality parts. It is easy to maneuver. The one/off and power setting switch (low, medium, high) is located at the top of the handle; however, I find myself occasionally turning off the vacuum by accident. I wish the power button were a few more inches away from my hand. This is a minor and perhaps personal issue but thought I'd mention it.<br /><br />The vacuum has very good suction which corresponds to the setting you choose. The higher the suction setting, the less battery time you'll have. I wish you could charge the battery without having to remove it.<br /><br />Overall, for bare floors and low pile carpet, this vacuum does a decent job. At 10lbs, it's a bit heavy for stairs but doable. Overall its a quality vacuum but it cannot replace the need for a full upright as there are no tools to attach.",
-		"expected": [
+		"tags": [
 			"#DesignAndUsabilityIssues",
 			"#BatteryAndPowerIssues",
 			"#PerformanceAndFunctionality"
-		],
-		"sentiment": [
-			"N",
-			"N",
-			"P"
 		]
 	},
 	{
 		"text": "This will work great for \"just made\" messes, it does not clean good on set in messes. Example, spilled milk ( I have toddlers with cups that leak little drops) if you let it dry, it will not clean it all the way off. I expected more for this price and the rant and raves over this mop..",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#CustomerExperienceAndExpectations",
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"N",
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "It's very powerful but my old professional model shark is better in many ways. This one doesn't have a very long cord, no headlight, no bare floor tool and the dirt cup is significantly smaller. It's not as substantial either. Granted it's less money. On the flip side, the brush roller doesn't collect hair. It's very powerful and does the job for now. I do worry about the hose holding up because it's not as thick as my old shark which is the reason I had to purchase this one. All in all its good but I feel like I went from a Cadillac to a Corolla.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#DurabilityAndMaterialConcerns",
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"N",
-			"N",
-			"N"
 		]
 	},
 	{
-		"text": "The top handle piece of the vacuum I received (when you press the button to release) is obviously defective. Every time I try pushing the vacuum around and I have to pull on it, it comes disconnected. I am happy overall in the performance but think it\u2019s needs a new hose and handle part and the metal pole part that it locks into.",
-		"expected": [
+		"text": "The top handle piece of the vacuum I received (when you press the button to release) is obviously defective. Every time I try pushing the vacuum around and I have to pull on it, it comes disconnected. I am happy overall in the performance but think it’s needs a new hose and handle part and the metal pole part that it locks into.",
+		"tags": [
 			"#DesignAndUsabilityIssues",
 			"#DurabilityAndMaterialConcerns"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "Love the dirt suction power.  Just wish the hose was longer and the beater brush could be shut off when using accessories.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality"
-		],
-		"sentiment": [
-			"N"
 		]
 	},
 	{
-		"text": "I bought this in September of 2021 Didn\u2019t open box until this year 2022. It quit working in three months. Will never buy again",
-		"expected": [
+		"text": "I bought this in September of 2021 Didn’t open box until this year 2022. It quit working in three months. Will never buy again",
+		"tags": [
 			"#PerformanceAndFunctionality"
-		],
-		"sentiment": [
-			"N"
 		]
 	},
 	{
 		"text": "I just traded up my Hoover for this Shark Pro Navigator. One of the main reasons I chose the PRO as opposed to the regular Navigator is because of the bigger canister. We have a Golden Retriever with a lot of hair, so a bigger canister is a must.<br /><br />PROS: It seems to have really great suction power. I love the versatility that I can take this from a stand up vacuum to a canister vacuum for the stairs, to a hard floor cleaner. I love the swivel function to fit around curved space. It's not nearly as noisy as my old vacuum. This thing has a ton of filters that are washable.<br /><br />CONS: It feels like one of the cheaper infomercial products. Before everyone gets upset that I said that, I just mean it doesn't feel as sturdy as any of the other vacuums I've had in the past. The actual vacuum head seems TINY compared to any vacuum I've had in the past. If I were vacuuming a small apartment, fine. But 5 bedrooms and 3 floors? Sort of a \"fail\" there.<br /><br />I have had a Dyson in the past, and I don't think this would compare with a Dyson. Dysons are sturdier, and more of a quality stand up vacuum. This vacuum is great in other ways, like the break down functions, and bare floor functions. (I'm not a fan of Dyson bc mine broke after 2 years, so I didn't find the 500$ price tag worth it).<br /><br />I would give this one between a 3 and 4 stars...",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#DurabilityAndMaterialConcerns",
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"P",
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "nothing work after after few days!!! i was a bissel client i changed to hoover to try their products. It was wonderful! the first day I thought i would recommend this to everyone. I found it easy to use and worked miracles but when try to use it again nothing work it is defective product i called hoover they send me to the vacuum factory i changed the city and let that machine with them long time, when i m back and use it as a dry option only it stopped working the dry option stop while i m only cleaning the kitchen nothing else i paid this amount and bought this machine for all my house but cause i m taking care of it i only use it in the kitchen one time per 10 days or a month, i have the brush new cause i was using other mop to clean the kitchen i only use this machine for drying only and few times and only in kitchen but it stopped working i never felt happy after that believe me if i said this machine make me sad cause i kept taking care of it but it is from the beginning a defective one they cheaters me and refuse to replace it not from the beginning not after warranty, i got a defective mop from bissell they changed immediately and send me a voucher to buy new one cause they know their item and trust client here no trust at all they live you with a defective product and 100 emails sent to hoover they don't care about their client it is the worst customer service ever they will not replace it so save your money and be aware of buying this product and dealing with them i m super sad i only use this in kitchen i don't have lots of mess no pets too but this company make me sad",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#CustomerExperienceAndExpectations",
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"N",
-			"N",
-			"N"
 		]
 	},
 	{
-		"text": "After receiving, assembling and reading the directions I used it for 15 minutes. It was incredible, picking up cat hair on carpet and hardwood floor. But, the link between the handle and wand in the core of the machine was plastic and it fell apart, making it unable to use. I called the manufacturer directly, and found out they were still tracking down this model because they had had to reengineer the problem. I haven\u2019t got my replacement yet, but am hoping it will stay together, as it\u2019s a great suction machine. I suggest buying directly from Hoover to avoid old inventory and filling out their warranty. The machine is only as strong as it\u2019s weakest parts, and I got a reject. Am hoping it will live up to my expectations.",
-		"expected": [
+		"text": "After receiving, assembling and reading the directions I used it for 15 minutes. It was incredible, picking up cat hair on carpet and hardwood floor. But, the link between the handle and wand in the core of the machine was plastic and it fell apart, making it unable to use. I called the manufacturer directly, and found out they were still tracking down this model because they had had to reengineer the problem. I haven’t got my replacement yet, but am hoping it will stay together, as it’s a great suction machine. I suggest buying directly from Hoover to avoid old inventory and filling out their warranty. The machine is only as strong as it’s weakest parts, and I got a reject. Am hoping it will live up to my expectations.",
+		"tags": [
 			"#DurabilityAndMaterialConcerns",
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
-		"text": "There is only height. Very hard to push on carpet. Easy to push on hard floors. I\u2019m very unhappy with it.",
-		"expected": [
+		"text": "There is only height. Very hard to push on carpet. Easy to push on hard floors. I’m very unhappy with it.",
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "Belt broke within 5 minutes of initial use. Hoover said they were sending 5 new ones. After 3 weeks, I received 2.<br />Attachment hose way too short.",
-		"expected": [
+		"tags": [
 			"#DurabilityAndMaterialConcerns",
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
-		"text": "This is a great vacuum for the money.  It has lots of vacuuming power like the other reviewers claimed which is nice because it picked up as much as my Shark for half the price.  A couple things I didn't like about it was that I'd like for it to have had a light on front like my Shark used to but that's not the reason for the 4 stars.  The reason for it is that where the dirt canister meets the vacuum seems like it's not secure enough and can foresee encountering problems in the future with dirt escaping through there quite easily \ud83d\ude10 for now it's doing very well but I'll probably go back to Shark after this.",
-		"expected": [
+		"text": "This is a great vacuum for the money.  It has lots of vacuuming power like the other reviewers claimed which is nice because it picked up as much as my Shark for half the price.  A couple things I didn't like about it was that I'd like for it to have had a light on front like my Shark used to but that's not the reason for the 4 stars.  The reason for it is that where the dirt canister meets the vacuum seems like it's not secure enough and can foresee encountering problems in the future with dirt escaping through there quite easily 😐 for now it's doing very well but I'll probably go back to Shark after this.",
+		"tags": [
 			"#ValueForMoneyAndInvestment",
 			"#DurabilityAndMaterialConcerns"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
-		"text": "Well what can I say, bought another Dyson. My last Dyson lasted 16+ years the best I\u2019ve ever owned. Always had pets, kitties & doggies. This Dyson called \u201canimal\u201d is fitting, it actually pulls you along because the suction is so strong! So when you first get it and put it together, don\u2019t be concerned because it seems so heavy once this beast is turned on it works it\u2019s magic best vacuum I\u2019ve ever had hands-down!",
-		"expected": [
+		"text": "Well what can I say, bought another Dyson. My last Dyson lasted 16+ years the best I’ve ever owned. Always had pets, kitties & doggies. This Dyson called “animal” is fitting, it actually pulls you along because the suction is so strong! So when you first get it and put it together, don’t be concerned because it seems so heavy once this beast is turned on it works it’s magic best vacuum I’ve ever had hands-down!",
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#AssemblyAndSetup"
-		],
-		"sentiment": [
-			"P",
-			"P"
 		]
 	},
 	{
 		"text": "1) Lightweight - I get easily fatigued and while I have always loved my Shark vacuums, they are sometimes heavy for me. I needed something lightweight since we recently moved into a home with carpeted stairs. This is PERFECT.<br /><br />2) Pickup - I'm not going to lie...we NEEDED to vacuum. We moved and lost our vacuum in the move so we went a month without owning a vacuum. We have 2 beagles, 2 cats, and 3 kids. AND we live in the forest so debris does come in the door pretty easily. I felt like Snow White using it for the first time because it was working miracles!!<br /><br />3) Storage - If you have read this far, you saw I recently moved. This was a situation of downsizing. We were in 3700 sqft and now 1700 and there are 5 of us plus 4 pets. Storage is limited now and storing a large vacuum isn't something I wanted to waste space on, so this is perfect for that. The handheld hooks to the front which makes it shorter to store as well. A smaller footprint all around.<br /><br />4) Hair - Hair does not get caught. At least until it hits the filter then it wraps around for easy cleanout. I have long hair as does my daughter, so this is a necessity. We've really tested it since it arrived and I am impressed. As far as pet hair, it picks up so well that my tan carpeted steps now look IVORY.<br /><br />5) FIVE STARS - Can't wait to tell everyone I know about this vacuum!! Hope this review helps someone.",
-		"expected": [
+		"tags": [
 			"#CustomerExperienceAndExpectations",
 			"#MaintenanceAndCleaning"
-		],
-		"sentiment": [
-			"P",
-			"P"
 		]
 	},
 	{
 		"text": "I got this & didn't use right away, boy I should of. This is junk. My 1st time using the handle broke off top tank, then attachments didn't work & just ran out bottom. I thought u could trust Hoover but this is so cheaply made & I was so sad that it didn't work. Hoover's warrenties is a nightmare so I lost all my money for a product that don't work, links, handle broke 1st use its made so cheap. Then cleaning it up was even worse. Don't waste ur money!!!",
-		"expected": [
+		"tags": [
 			"#DesignAndUsabilityIssues",
 			"#PerformanceAndFunctionality",
 			"#DurabilityAndMaterialConcerns",
 			"#MaintenanceAndCleaning",
 			"#CustomerExperienceAndExpectations",
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"N",
-			"N",
-			"N",
-			"N",
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "I was one of the ones who jumped on the band wagon of how great this vacuum was. Learn my lesson and from now on I don't do a review until it has been tested over time. In this case, time showed me how quickly this vacuum quality held up and it was not good. I'm now in the market for another Vac.",
-		"expected": [
+		"tags": [
 			"#DurabilityAndMaterialConcerns"
-		],
-		"sentiment": [
-			"N"
 		]
 	},
 	{
 		"text": "This vacuum has good suction, but it is very hard to use.  The cord seems always to be in the way, the on/off switch is very hard to get to, and the thing is HEAVY!  I was looking for an upright to use daily in my sewing/craft room, but this is just too heavy for daily use.",
-		"expected": [
+		"tags": [
 			"#DesignAndUsabilityIssues",
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "Terrible!  I have purchased 4 of these during the last 8 years or so.....Each one last alittle less than the previous.  This one only lasted 9 months (using 2x month for an hour or so) and the unit will not dispense soap anymore.  Other units all break at about 18 months, which is kinda ok with me.  This unit will eventually break down for various reasons, BUT 9 MONTHS!",
-		"expected": [
+		"tags": [
 			"#DurabilityAndMaterialConcerns"
-		],
-		"sentiment": [
-			"N"
 		]
 	},
 	{
 		"text": "I've been using this vacuum for about 4 months, and really like it so far. It is awesome for sucking up pet hair, sand, and general day to day dirt (we leave near the beach, and have a cat, so that can be a lot in our household!) It's not terribly heavy, but is an upright, so might be a bit too much weight if you don't want to lug around a the entire weight of the vacuum everywhere you go. It's also easy to dump the canister (although do this carefully as we dumped it out all over the newly vacuumed floor the first time!) I still keep my old featherlight vaccuum though for the stairs, as this one is a bit challenging to manuever up and down a long flight of stairs, even using the attachments.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#MaintenanceAndCleaning"
-		],
-		"sentiment": [
-			"P",
-			"P"
 		]
 	},
 	{
 		"text": "I had the Dyson Animal for years and it was awesome. This is a pain to use and not worth the money. Suction is not that great and to use the extender hose, you have stop and take things apart and put together. With the animal model, you just pull it out and start using it. So disappointed in this model. Would not recommend that you spend this kind of money on this model.",
-		"expected": [
+		"tags": [
 			"#DesignAndUsabilityIssues",
 			"#PerformanceAndFunctionality",
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"N",
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "I bought this vacuum in April I have not even had it a year and the past two months it has spit out dirt and will not suck anything up. I have unhooked valve and cleaned thoroughly. I have also cleaned the filters. I am saddened this has happened. The same thing happened with the Shark vacuum I bought before this one and I was hoping to give them another chance. If there is anyway to fix this issue I would like to be notified.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#DurabilityAndMaterialConcerns",
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"N",
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "Had a bagless Bissell for 10 years...great vacuum but motor started getting loud.  Bought this one and I'm very impressed...very quiet and very strong.  We had just vacuumed about 2 days before this arrived...unboxed it, very easy to put together, and gave it a test run.  Dogs didn't even run and hide cause it was so quiet....and I was amazed how much hair and dirt it picked up since the carpet was just vacuumed 2 days earlier.  Hope it lasts but so far I'm very impressed and the price is fantastic.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#AssemblyAndSetup",
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"P",
-			"P",
-			"P"
 		]
 	},
 	{
 		"text": "Very impressed with this vacuum! It is lightweight, and has very powerful suction! On certain carpeting you can actually see it lifting a little. My carpeting looks like new again, and I was shocked to see how much dirt it picked up, considering I had just used my old vacuum the same day beforehand.<br /><br />My only complaint is the hassle of having to turn it off, bend down and transfer the hose from &#34;1&#34; floor mode, to &#34;2&#34; tool mode. But I did see this prior to purchase so I can't complain!",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality"
-		],
-		"sentiment": [
-			"P"
 		]
 	},
 	{
 		"text": "This thing is HEAVY. So heavy that I had to truly lean into pushing it back and forth across the rug. The tools that come with it are laughable and basically useless.<br />I does have a large canister, which is probably the only redeeming quality.",
-		"expected": [
+		"tags": [
 			"#DesignAndUsabilityIssues"
-		],
-		"sentiment": [
-			"N"
 		]
 	},
 	{
 		"text": "I received my vacuum 4 days ago. I have been a Die Hard Dyson Fan because of my dog and cat, wood stove, adult kids and an adult husband that never take their shoes off!  My husband and I watched an infomercial about the Shark...and we both agreed that the biggest downfall that we have noticed with the Dyson is their less than convenient hose...it is really cumbersome because it really isn't flexible...therefore, it never gets used!  After some Amazon research, I decided that the model on TV wasn't what I really wanted!  I had to have this sporty looking one with a bigger motor!<br />I had vacuumed with the Dyson before unboxing the Shark.  I had vacuumed the usual dog/cat hair and all the other crud up and the carpet looked good...I thought!  I unboxed the Shark and just had to see if it would have anything to pick up after just vacuuming!  I could not believe that this vacuum actually sucked as hard as it does and the hair and dirt that I couldn't even see filled the canister!  My carpet looks and feels so much better!  I love the flexible hose on it...way better than the Dyson!  If this vacuum holds up as well as my Dyson's have...I will be purchasing one for both of my daughters for Christmas!",
-		"expected": [
+		"tags": [
 			"#DesignAndUsabilityIssues",
 			"#PerformanceAndFunctionality"
-		],
-		"sentiment": [
-			"N",
-			"P"
 		]
 	},
 	{
-		"text": "The bissell cleanview compact upright vacuum was amazing, until day 90. The motor stopped working. The brush stopped moving and the motor started smoking and smelled very bad, I'm sure y'all know what I mean. It\u00a0did a great job picking up kitty litter and cat hair till the motor burned out. I did clean the brush bar of hair every few vacuums and cleaned the filter also. Not sure why the motor burned out after so little time. I can't return it and I don't have a car or much extra $ to take a uber to a repair shop so I guess I'll just have a dirty house till I can buy another vacuum. Really bummed out because I liked this vacuum a lot.",
-		"expected": [
+		"text": "The bissell cleanview compact upright vacuum was amazing, until day 90. The motor stopped working. The brush stopped moving and the motor started smoking and smelled very bad, I'm sure y'all know what I mean. It did a great job picking up kitty litter and cat hair till the motor burned out. I did clean the brush bar of hair every few vacuums and cleaned the filter also. Not sure why the motor burned out after so little time. I can't return it and I don't have a car or much extra $ to take a uber to a repair shop so I guess I'll just have a dirty house till I can buy another vacuum. Really bummed out because I liked this vacuum a lot.",
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#DurabilityAndMaterialConcerns",
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"N",
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "Never owned a vacuum cleaner before that required a total disassembly and use of a Shop Vac to keep it clean and functioning. I'm used to vacuums that required the bag and filter be replaced and THAT usually took only a few minutes to accomplish. Not this baby! When it works it works great, but otherwise it's asthmatic at best.",
-		"expected": [
+		"tags": [
 			"#MaintenanceAndCleaning",
 			"#PerformanceAndFunctionality"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "I LOVE my new Hoover Tempo! It's a great little vacuum. For many years I've been using 'better' models, but no more. I've had problems with them all over the almost 30 years I've been a wife and mother, and after buying this model for my son and daughter-in-law a few months ago (and they LOVE their's) I decided to buy myself one. It has great suction, and is lightweight and easy for me to maneuver and carry around.<br /><br />My only criticisms are... I wish the electrical cord was about twice as long, and that the hose was made of a bit beefier plastic...but both are very livable as is.",
-		"expected": [
+		"tags": [
 			"#DesignAndUsabilityIssues",
 			"#DurabilityAndMaterialConcerns"
-		],
-		"sentiment": [
-			"N",
-			"P"
 		]
 	},
 	{
 		"text": "We like it so far.  It really sucks!  That's good for a vacuum.  The brush wants to pull the vacuum along and really seems to get up the dirt.  It's solid.  The hose could be a little longer.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality"
-		],
-		"sentiment": [
-			"P"
 		]
 	},
 	{
 		"text": "It does a good job but the on/off switch broke after 2 years and it was going to cost $120 to fix it. So we had to pull the plug out of the wall to turn it off.<br /><br />Then it started overheating after 4 years and it was going to cost another $120 to fix that. The hepa filter was $50. It is also heavy, my petite wife needed me to move upstairs when she wanted to use it.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#DurabilityAndMaterialConcerns",
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"N",
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "I bought the dyson Animal vaccum about 2 years ago now and I don't know if I would spend this much on a vaccum again. I have had to take it in to be professionally cleaned at least once a year. The first time I did that the Dyson approved dealer told me there was no difference betweent the animal version (purple- and the one I have) and the normal version (yellow and about $100 cheaper). He said they used the same parts and did the same thing. The suction is great when it is fully operational, but for the money we paid for the vaccum, I wouldn't expect all the follow up to ensure optimal performance.",
-		"expected": [
+		"tags": [
 			"#MaintenanceAndCleaning",
 			"#ValueForMoneyAndInvestment",
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"N",
-			"N",
-			"N"
 		]
 	},
 	{
-		"text": "I used my vacuum for the first time today and I\u2019m super disappointed. The suction does suck simple things on the ground should\u2019ve been very easy to pick up like the little fly away is it fly off of Styrofoam. The Thing that sucks your cord back in I had to hit about five or six times before it even sucked the cord back in definitely NOT worth the money! I open the box and put it together on Sunday and today is Wednesday I already threw the box away or else I would be returning this!",
-		"expected": [
+		"text": "I used my vacuum for the first time today and I’m super disappointed. The suction does suck simple things on the ground should’ve been very easy to pick up like the little fly away is it fly off of Styrofoam. The Thing that sucks your cord back in I had to hit about five or six times before it even sucked the cord back in definitely NOT worth the money! I open the box and put it together on Sunday and today is Wednesday I already threw the box away or else I would be returning this!",
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#ValueForMoneyAndInvestment",
 			"#AssemblyAndSetup"
-		],
-		"sentiment": [
-			"N",
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "Positives-<br />This unit collects very well.<br />There are very good filters.<br />Its filter's collect a lot of nose sneezing dust.<br />It is a very light unit compared to competition with the same suck strength.<br />It has easy access for changing filters and belts.<br />Negitive-<br />It does not have a light on it that was great for the dark areas when I owned a classic windtunnel.",
-		"expected": [
+		"tags": [
 			"#DesignAndUsabilityIssues"
-		],
-		"sentiment": [
-			"N"
 		]
 	},
 	{
-		"text": "I love this vacuum more than any other cleaning supplies in my home. I had been using a $40.00 Dirt Devil vacuum that my man insisted we get over this vacuum that I wanted. He was the champion of saying we were only paying more money for the name brand even though I told him he was wrong. Anyways he was using the vacuum and said \u201cthis sucks and picks up nothing\u201d so I said \u201chmm, maybe buy the vacuum I wanted.\u201d Needless to say I have the vacuum I wanted and I got to say \u201cI told you so\u201d which made my day fabulous. I have converted him, and he now knows that Hoover is superior.",
-		"expected": [
+		"text": "I love this vacuum more than any other cleaning supplies in my home. I had been using a $40.00 Dirt Devil vacuum that my man insisted we get over this vacuum that I wanted. He was the champion of saying we were only paying more money for the name brand even though I told him he was wrong. Anyways he was using the vacuum and said “this sucks and picks up nothing” so I said “hmm, maybe buy the vacuum I wanted.” Needless to say I have the vacuum I wanted and I got to say “I told you so” which made my day fabulous. I have converted him, and he now knows that Hoover is superior.",
+		"tags": [
 			"#CustomerExperienceAndExpectations",
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"P",
-			"P"
 		]
 	},
 	{
 		"text": "We like the actual vacuum itself very much.  Unfortunately, the battery died / went defective (would no longer charge) within 5 months of purchase.  I've been working with Hoover for the manufacturer warranty and they've been trying to sent me a replacement battery for 2 months now.<br /><br />The batteries have been backordered at their warehouse this entire time (but yet have been available at Amazon the whole time as well) which either tells you sometime about the quality of the product or that they're just simply selling the product instead of retaining parts as needed for warranty issues.<br /><br />If the battery lasted a year or two I'd give it 5 stars, but 5 months with a useless manufacturers warranty is pathetic.",
-		"expected": [
+		"tags": [
 			"#BatteryAndPowerIssues",
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "Hand tool extremely loud high pitch noise, sent my dogs into a frenzy knocking everything over. The brush does not do a good job of brushing out debris from carpets. Good suction power. Vacuum does not stand well on its own. It will fall over when using hose. To prevent vacuum from falling over, you must detach it from the base to carry around. It was fine but it got to be too heavy and cumbersome. Would not recommend buying if you have pets or carpets.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#DesignAndUsabilityIssues"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
-		"text": "DO NOT ORDER THIS PRODUCT!  I\u2019ve had it for 8 months and have wanted to toss it more than once.  I vacuum once every few weeks because as a flight attendant, I\u2019m only home about 10 days a month.  Today, I\u2019ve had it!  Does not suck up but blows out, runs hot and automatically shuts off before I even finish vacuuming my tiny living room.  SAVE YOUR MONEY!",
-		"expected": [
+		"text": "DO NOT ORDER THIS PRODUCT!  I’ve had it for 8 months and have wanted to toss it more than once.  I vacuum once every few weeks because as a flight attendant, I’m only home about 10 days a month.  Today, I’ve had it!  Does not suck up but blows out, runs hot and automatically shuts off before I even finish vacuuming my tiny living room.  SAVE YOUR MONEY!",
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "It is an awesome vac. I had been using a shopvac, due to having so much hardwood floor, and I used this vac on a large area rug (that got vacuummed @every day) and it pulled almost half a container of dirt and hair out.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality"
-		],
-		"sentiment": [
-			"P"
 		]
 	},
 	{
 		"text": "vacuum itself is great. the pet power brush is a complete joke. put it on, switched to hardfloor setting, vacuumed 3 steps and it stopped spinning. JUNK!",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality"
-		],
-		"sentiment": [
-			"N"
 		]
 	},
 	{
 		"text": "The cord on this broke right after the return policy expired.  Now it is an electrical issue and because it had to be wrapped you can curl up the cord anymore. Never buy it again",
-		"expected": [
+		"tags": [
 			"#DurabilityAndMaterialConcerns",
 			"#PerformanceAndFunctionality",
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"N",
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "We've had this for 2 months. We have one German Shepard. The hair builds up around the belt immediately and then the brush stops spinning. We have to clean it out constantly and the belt has already broken once. When it works, it's amazing.",
-		"expected": [
+		"tags": [
 			"#MaintenanceAndCleaning",
 			"#DurabilityAndMaterialConcerns"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
 		"text": "I did not realize just how much our ES sheds.  With the vacuum I previously used, the debris was concealed in a disposable vacuum bag.  With this vacuum, you see the vast amount of hair and other debris gathered in the canister.  It is definitely quieter than my previous vacuum and seems to do a great job in cleaning the floors.  No complaints here.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality"
-		],
-		"sentiment": [
-			"P"
 		]
 	},
 	{
 		"text": "My first order came fast, but it had a problem with the foot brush roll. I contacted with Shark customer service and received a good support. They replaced foot brush roll fast. Unfortunately it didn't work. It seemed to me vacuum cleaner had some electronic  contacts problem. I returned product and got a full refund right way. I was disappointed but decided to give a second chance to Shark. I went to the local store Sears and got a same vacuum cleaner. I love it! It's really powerful, maneuver, light and easy to use. My 8 years old daughter finally can vacuum by herself and she really likes it. The product is excellent, shipping was fast, customer service great.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"P",
-			"P"
 		]
 	},
 	{
 		"text": "There are pros and cons with this vacuum.<br /><br />The worst part about it is the Hush mode. I purchased it so I could vacuum above my second story neighbor every day without all of the noise. Wrong. The hush mode does not sound that much different than the regular vacuum mode. Bummer for me.<br /><br />The vacuum cleaner is quite heavy for a 105 pound person (especially going upstairs with it).  Also, the front of the vacuum cleaner is wide so it did not fit between chairs etc. in my small condo space. It would be great for a large home or condo with a large area to vacuum.<br /><br />The good points are that it has a super long cord, it does pick up a lot of cat/dog hair and the bagless system is easy to empty.<br /><br />In the future I would go to the store to pick a vacuum instead of ordering one on-line without seeing it , hearing the sound and picking it up. My bad. : )",
-		"expected": [
+		"tags": [
 			"#DesignAndUsabilityIssues",
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	},
 	{
-		"text": "Great vacuum for the price!! Big canister. Picks up tonssss of dog hair. Pet attachment works well. Only had for a few days but so far it\u2019s worth the price",
-		"expected": [
+		"text": "Great vacuum for the price!! Big canister. Picks up tonssss of dog hair. Pet attachment works well. Only had for a few days but so far it’s worth the price",
+		"tags": [
 			"#ValueForMoneyAndInvestment"
-		],
-		"sentiment": [
-			"P"
 		]
 	},
 	{
 		"text": "It doesnt pick up anything. I bought it over a year ago for my son when he moves out. He moved out few months ago and the vacuum doesnt pick up anything. It is brand new but unfortunately we had it over a year so we cannot return. Tried to trouble shoot and no luck. We are dragging my dyson to his house to vacuum. Expert support is not available due to time passed. If seller is reading this, please help. Would love to get it to work and change my rating.",
-		"expected": [
+		"tags": [
 			"#PerformanceAndFunctionality",
 			"#CustomerExperienceAndExpectations"
-		],
-		"sentiment": [
-			"N",
-			"N"
 		]
 	}
 ]
