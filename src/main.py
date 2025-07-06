@@ -13,7 +13,7 @@ client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
 class GeminiEmbeddingFunction(EmbeddingFunction):
     def __init__(self):
-        super().__init__()
+        pass
 
     def __call__(self, input: Documents) -> Embeddings:
         embeddings = []
