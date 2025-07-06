@@ -1,0 +1,47 @@
+{
+  "count": 200,
+  "data_sample": [
+    {
+      "text": "Used the product and was very happy with it until about a month ago. Motor sounded like it was working harder; thought maybe I was imagining things. Look all through hoses and brush roller assembly for any blockages. Today it was not getting good suction; then motor suddenly cut back on output. Barely runs; does not run in upright position. No suction. Bought this as an \"inexpensive\" replacement to Dyson that died after 5 years. You get what you pay for evidently. Wondering if manufacturer warranty in effect, though I failed to send in the warranty card.",
+      "tags": [
+        "#PerformanceAndFunctionality",
+        "#ValueForMoneyAndInvestment",
+        "#CustomerExperienceAndExpectations"
+      ],
+      "dataset_type": "dataset-dev"
+    },
+    {
+      "text": "pros first. yes it is light weight. cons. the dirt canister is so small I can not do one room with out having to make a rip to the garbage can to empty. as a pet hair thing, not that great. our old dyson did a better job. the attachment they include to do ceiling fans is a joke. you set it to do the tops of the blade and it will not stay position to do the job. over all I am not happy with this vacuum. there has to be a good vacuum somewhere out there that will do a good job for the high price they want for these machines",
+      "tags": [
+        "#DesignAndUsabilityIssues",
+        "#PerformanceAndFunctionality",
+        "#ValueForMoneyAndInvestment"
+      ],
+      "dataset_type": "dataset-dev"
+    },
+    {
+      "text": "My MIL got me this vacuum for my birthday.  It's only been a year and the motor died.  Iv lived this vacuum it works great .",
+      "tags": [
+        "#DurabilityAndMaterialConcerns"
+      ],
+      "dataset_type": "dataset-dev"
+    },
+    {
+      "text": "Sad to see this item broken and useless within less than 5 months of purchase. How can I return it????",
+      "tags": [
+        "#DurabilityAndMaterialConcerns",
+        "#CustomerExperienceAndExpectations"
+      ],
+      "dataset_type": "dataset-dev"
+    },
+    {
+      "text": "Disappointed.....It vacuums great, but so hard to push.  Even on bare floor setting and the rewinding cord part fell off!",
+      "tags": [
+        "#DesignAndUsabilityIssues",
+        "#PerformanceAndFunctionality"
+      ],
+      "dataset_type": "dataset-dev"
+    }
+  ],
+  "embedding_dim": 768
+}
