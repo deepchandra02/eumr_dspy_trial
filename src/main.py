@@ -6,6 +6,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from google import genai
 from chromadb import Documents, EmbeddingFunction, Embeddings
 from tqdm import tqdm
+import dspy
 
 # Configure Gemini API (set your API key as environment variable GEMINI_API_KEY)
 client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
@@ -139,3 +140,79 @@ else:
 
 print(f"🎉 Vector database ready with {vectordb.count()} documents")
 print("✅ Pipeline completed successfully!")
+
+# ===== DSPy RAG Implementation =====
+print("\n🧠 Setting up DSPy RAG...")
+
+# Configure DSPy with Gemini
+api_key = os.getenv('GEMINI_API_KEY')
+if not api_key:
+    raise ValueError("GEMINI_API_KEY environment variable not set")
+
+lm = dspy.LM("gemini/gemini-2.5-flash", api_key=api_key)
+dspy.configure(lm=lm)
+print("✓ Configured DSPy with Gemini 2.5 Flash")
+
+
+# Create retriever from ChromaDB
+def retrieve_context(query, k=3):
+    """Retrieve relevant context from vector database"""
+    results = vectordb.query(query_texts=[query], n_results=k)
+    return [doc for doc in results["documents"][0]]
+
+
+# DSPy Signatures
+class BasicLM(dspy.Signature):
+    """Basic language model call without context"""
+
+    question = dspy.InputField()
+    response = dspy.OutputField()
+
+
+class BasicRAG(dspy.Signature):
+    """RAG with retrieved context"""
+
+    context = dspy.InputField(desc="Retrieved relevant context")
+    question = dspy.InputField()
+    response = dspy.OutputField()
+
+
+class RAGWithCoT(dspy.Signature):
+    """RAG with Chain of Thought reasoning"""
+
+    context = dspy.InputField(desc="Retrieved relevant context")
+    question = dspy.InputField()
+    reasoning = dspy.OutputField(desc="Step-by-step reasoning through the context")
+    response = dspy.OutputField(desc="Final answer based on reasoning")
+
+
+print("✓ Defined DSPy signatures")
+
+# Test question
+question = "What are common performance issues mentioned in reviews?"
+print(f"\n❓ Test question: {question}")
+
+# 1. Basic Language Model Call
+print("\n1️⃣ Basic LM Call (no context):")
+basic_chat = dspy.Predict(BasicLM)
+basic_result = basic_chat(question=question)
+print(f"Response: {basic_result.response}")
+
+# 2. Basic RAG
+print("\n2️⃣ Basic RAG (with context):")
+context_docs = retrieve_context(question)
+context = "\n\n".join(context_docs)
+print(f"Retrieved {len(context_docs)} relevant documents")
+
+rag_chat = dspy.Predict(BasicRAG)
+rag_result = rag_chat(context=context, question=question)
+print(f"Response: {rag_result.response}")
+
+# 3. RAG with Chain of Thought
+print("\n3️⃣ RAG with Chain of Thought:")
+cot_chat = dspy.Predict(RAGWithCoT)
+cot_result = cot_chat(context=context, question=question)
+print(f"Reasoning: {cot_result.reasoning}")
+print(f"Response: {cot_result.response}")
+
+print("\n🎯 DSPy RAG comparison completed!")
