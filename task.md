@@ -1,0 +1,1 @@
+I have many reviews of a vacuum cleaner saved in a JSON file - dataset-dev.json. Each Review has been tagged with some out of six tags (you can find them all in tags.py). I need the pipeline set up, so that future reviews are correctly assigned tags. We can use dataset-test.json for testing.
