@@ -7,7 +7,7 @@ This implementation follows the methodology from "DSPy: In-Context Learning for 
 The system implements a three-stage classification process:
 
 1. **Infer**: GPT model analyzes document text and generates initial label predictions
-2. **Retrieve**: Text embeddings find similar labels in your label space using cosine similarity
+2. **Retrieve**: Text embeddings find similar labels in your label space using cosine similarity  
 3. **Rank**: GPT model re-ranks retrieved labels based on document context
 
 ## 📁 Required File Structure
@@ -15,9 +15,10 @@ The system implements a three-stage classification process:
 ```
 eumr_dspy_trial/
 ├── labels.csv              # Your label data (required)
-├── document1.txt          # Text files to classify
-├── document2.txt
-├── ...
+├── extracted_text/         # Folder containing text files to classify
+│   ├── document1.txt
+│   ├── document2.txt
+│   └── ...
 ├── embeddings_cache.pkl   # Generated automatically
 └── classification_results.json  # Output file
 ```
@@ -27,17 +28,16 @@ eumr_dspy_trial/
 Your `labels.csv` must contain exactly these columns:
 
 ```csv
-label,category,description
-"Software Engineering","Technology","Development of software applications and systems"
-"Data Analysis","Analytics","Statistical analysis and data interpretation"
-"Project Management","Business","Planning and execution of projects"
+label,category,example
+"Software Engineering","Technology","Development of web applications using React and Node.js"
+"Data Analysis","Analytics","Statistical analysis of customer behavior data using Python pandas"
+"Project Management","Business","Leading agile development teams and sprint planning activities"
 ```
 
-**Important**:
-
+**Important**: 
 - `label`: The actual label/tag name
 - `category`: Broader category this label belongs to
-- `description`: Detailed description of what this label represents
+- `example`: Concrete example of what this label represents
 
 ## 🚀 Setup Instructions
 
@@ -54,7 +54,6 @@ export OPENAI_API_KEY="your-api-key-here"
 ```
 
 Or create a `.env` file:
-
 ```
 OPENAI_API_KEY=your-api-key-here
 ```
@@ -62,9 +61,8 @@ OPENAI_API_KEY=your-api-key-here
 ### 3. Prepare Your Data
 
 Place your:
-
-- Text files in the `eumr_dspy_trial/` folder
-- `labels.csv` file in the same folder
+- Text files in the `eumr_dspy_trial/extracted_text/` folder
+- `labels.csv` file in the `eumr_dspy_trial/` folder
 
 ## 💻 Basic Usage
 
@@ -109,27 +107,23 @@ classifier = DocumentClassifier(config)
 ## ⚙️ Configuration Options
 
 ### Model Settings
-
 - `inference_model`: Model for initial label prediction (default: "gpt-4o-mini")
 - `ranking_model`: Model for final ranking (default: "gpt-4o")
 - `embedding_model`: Embedding model (default: "text-embedding-3-small")
 
 ### Classification Settings
-
 - `max_initial_predictions`: Max labels from inference step (default: 10)
 - `max_retrieved_labels`: Max labels from retrieval step (default: 20)
 - `max_final_labels`: Max final labels returned (default: 5)
 - `similarity_threshold`: Minimum cosine similarity for retrieval (default: 0.3)
 
 ### File Paths
-
 - `data_folder`: Folder containing your files (default: "eumr_dspy_trial")
 - `csv_file`: Name of your labels CSV (default: "labels.csv")
 
 ## 📈 Understanding the Output
 
 ### Single Document Result
-
 ```json
 {
   "text": "Document preview (first 200 chars)...",
@@ -141,7 +135,6 @@ classifier = DocumentClassifier(config)
 ```
 
 ### Batch Results
-
 The `classification_results.json` contains all classification results with metadata for analysis.
 
 ## 🔧 Troubleshooting
@@ -149,16 +142,13 @@ The `classification_results.json` contains all classification results with metad
 ### Common Issues
 
 1. **"Missing required columns" error**
-
-   - Ensure your CSV has exactly: `label`, `category`, `description` columns
+   - Ensure your CSV has exactly: `label`, `category`, `example` columns
 
 2. **"No labels retrieved" warning**
-
    - Lower the `similarity_threshold` in config
-   - Check if your label descriptions are detailed enough
+   - Check if your label examples are detailed enough
 
 3. **Empty predictions**
-
    - Your text might be too short or unclear
    - Try preprocessing text (remove special characters, ensure proper encoding)
 
@@ -172,7 +162,7 @@ The `classification_results.json` contains all classification results with metad
 
 2. **Batch Processing**: For large datasets, process files in smaller batches to avoid API rate limits.
 
-3. **Model Selection**:
+3. **Model Selection**: 
    - Use `gpt-4o-mini` for inference (faster, cheaper)
    - Use `gpt-4o` for ranking (better quality)
 
@@ -184,20 +174,20 @@ def classify_documents():
     # 1. Setup
     config = DocumentClassifierConfig()
     config.max_final_labels = 3  # Want top 3 labels per document
-
+    
     classifier = DocumentClassifier(config)
     classifier.setup()
-
+    
     # 2. Load data and initialize
     classifier.load_label_data("eumr_dspy_trial/labels.csv")
     classifier.initialize_classifier()
-
+    
     # 3. Process all documents
     results = classifier.classify_folder()
-
+    
     # 4. Save and analyze results
     classifier.save_results(results, "my_results.json")
-
+    
     # 5. Print summary
     print(f"Classified {len(results)} documents")
     for result in results:
@@ -221,7 +211,7 @@ After getting initial results:
 
 1. **Evaluate accuracy** on a sample of documents
 2. **Adjust configuration** based on performance
-3. **Refine label descriptions** for better retrieval
+3. **Refine label examples** for better retrieval
 4. **Experiment with different models** for cost/quality trade-offs
 
 The system is designed to be modular and easily configurable for different use cases and datasets.
