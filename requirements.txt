@@ -1,5 +1,24 @@
+# Core dependencies for Infer-Retrieve-Rank Document Classifier
+
+# DSPy framework - using specific version for IReRa compatibility
 dspy-ai>=2.4.0
-sentence-transformers>=2.2.0
-scikit-learn>=1.3.0
-numpy>=1.24.0
+
+# OpenAI API client
 openai>=1.0.0
+
+# Data processing
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Machine learning utilities
+scikit-learn>=1.0.0
+
+# File handling and utilities
+pathlib2>=2.3.0
+
+# Logging and configuration
+python-dotenv>=0.19.0
+
+# Optional but recommended for better performance
+# sentence-transformers>=2.2.0  # For alternative embedding models
+# faiss-cpu>=1.7.0  # For faster similarity search on large datasets

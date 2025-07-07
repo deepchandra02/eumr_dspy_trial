@@ -1,1 +1,2 @@
-I have many reviews of a vacuum cleaner saved in a JSON file - dataset-dev.json. Each Review has been tagged with some out of six tags (you can find them all in tags.py). I need the pipeline set up, so that future reviews are correctly assigned tags. We can use dataset-test.json for testing.
+I have several large files, converted to text, in a folder. I also have a csv with label, category, description.
+The task is to use the methodologies demonstrated in this paper and their code for my use-case - upload a text and get back the label/labels for the document. i have access to text-embeddings-003 and gpt-4.1 from openAI.
